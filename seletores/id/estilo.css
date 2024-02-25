@@ -1,0 +1,33 @@
+h1
+{
+font-size: 40px;
+color: blue;
+text-align: center;
+}
+
+
+body
+{
+background-color: grey;
+font-size: 50px;
+color: white;
+}
+
+
+#p1
+{
+text-align: center;
+color: yellow;
+}
+
+#p2
+{
+text-align: left;
+color: yellow;
+}
+
+#p3
+{
+text-align: right;
+color: yellow;
+}
